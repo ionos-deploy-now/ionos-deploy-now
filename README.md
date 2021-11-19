@@ -16,8 +16,8 @@ Deploy Now is a hosting platform built from developers for developers. Connect y
 |-|-|-|
 |Smart framework setup|HTTP/2|DDos Protection|
 |Automated deployments|Apache|Geo redundancy|
-|[Staging deployments](docs.ionos.space/docs/staging-deployments)|[SSL/TLS by default](docs.ionos.space/docs/domain-tls/#tlsssl)|[Climate-neutral hosting](https://www.ionos.com/environment)|
-|[Custom domains](docs.ionos.space/docs/domain-tls)|Wide variety of PHP versions|IPv6|
+|[Staging deployments](https://www.docs.ionos.space/docs/staging-deployments)|[SSL/TLS by default](https://www.docs.ionos.space/docs/domain-tls/#tlsssl)|[Climate-neutral hosting](https://www.ionos.com/environment)|
+|[Custom domains](https://www.docs.ionos.space/docs/domain-tls)|Wide variety of PHP versions|IPv6|
 
 
 # Usage
