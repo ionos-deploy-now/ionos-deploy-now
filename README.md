@@ -6,18 +6,18 @@
   <a href="https://docs.ionos.space/"><p>View docs</p></a>
 </div>
 
-# Introduction
+## Introduction
 
 Deploy Now is a hosting platform built from developers for developers. Connect your GitHub account with Deploy Now and get your web project live in seconds. Deploy Now updates your website on [IONOS](https://www.ionos.com/) shared hosting infrastructure after every git commit. The workflow automation is based on Automation is based on [GitHub Actions](https://github.com/features/actions).
 
-## Deploy Now in a nutshell
+## Deploy Now in a Nutshell
 
 |FUNCTION SET|APPLICATION STACK|BY DEFAULT|
 |-|-|-|
 |Smart framework setup|HTTP/2|DDos Protection|
 |Automated deployments|Apache|Geo redundancy|
-|[Staging deployments](/docs/staging-deployments)|[SSL/TLS by default](/docs/domain-tls/#tlsssl)|[Climate-neutral hosting](https://www.ionos.com/environment)|
-|[Custom domains](/docs/domain-tls)|Wide variety of PHP versions|IPv6|
+|[Staging deployments](docs.ionos.space/docs/staging-deployments)|[SSL/TLS by default](docs.ionos.space/docs/domain-tls/#tlsssl)|[Climate-neutral hosting](https://www.ionos.com/environment)|
+|[Custom domains](docs.ionos.space/docs/domain-tls)|Wide variety of PHP versions|IPv6|
 
 
 # Usage
