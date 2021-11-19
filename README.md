@@ -1,7 +1,9 @@
 <div align="center">
   
-  ![logoDN](https://user-images.githubusercontent.com/70626111/142593161-5b72c220-4b30-47fe-948c-286a9a3f4366.JPG)
-  <a href="https://www.ionos.com/hosting/deploy-now"><h1>IONOS Deploy Now</h1></a>
+ ![logoDNsmall](https://user-images.githubusercontent.com/70626111/142593458-f200a8fc-0a3d-4a83-8db1-667817b8d98d.JPG)
+  <a href="https://www.ionos.com/hosting/deploy-now"><h2>IONOS Deploy Now</h2></a>
+  <p>Deploy smarter. Deploy faster. Deploy Now.</p>
+  <a href="https://docs.ionos.space/"><p>View docs</p></a>
 </div>
 
 # Usage
