@@ -19,6 +19,9 @@ Deploy Now is a hosting platform built from developers for developers. Connect y
 |[Staging deployments](https://docs.ionos.space/docs/staging-deployments/)|[SSL/TLS by default](https://docs.ionos.space/docs/domain-tls/)|[Climate-neutral hosting](https://www.ionos.com/environment)|
 |[Custom domains](https://docs.ionos.space/docs/domain-tls/)|Wide variety of PHP versions|IPv6|
 
+## Usecases
+Deploy Now supports all common Static Site Generators and Single Page Application Frameworks. A support for PHP frameworks is currently in [Alpha](https://docs.ionos.space/docs/php-alpha/).
+
 ## Getting started
 Sign up for free on [ionos.com](https://docs.ionos.space/). You can start your project either [from sample](https://docs.ionos.space/docs/framework-samples), [from command line](https://docs.ionos.space/docs/from-cmd-line) or [from an existing repository](https://docs.ionos.space/docs/from-repo).
 
