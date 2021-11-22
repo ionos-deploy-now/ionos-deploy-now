@@ -1,5 +1,6 @@
 <div align="center">
- ![deploy-now_logo-for-github@2x (1)](https://user-images.githubusercontent.com/70626111/142833892-0a5bf67c-47a6-47de-ad98-3935034bdd62.png)
+ ![deploy-now_logo](https://user-images.githubusercontent.com/70626111/142834111-e76d6815-b510-4058-9611-dd2b256cba99.png)
+
   <a href="https://www.ionos.com/hosting/deploy-now"><h2>IONOS Deploy Now</h2></a>
   <p>Deploy smarter. Deploy faster. Deploy Now.</p>
   <a href="https://docs.ionos.space/"><p>View docs</p></a>
