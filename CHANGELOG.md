@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### 1.5.0 - 2021-11-02
 
 #### Added
-- Alpha support for PHP frameworks like Laravel and Symfony. 
+- [Alpha support](https://docs.ionos.space/docs/php-alpha/) for PHP frameworks like Laravel and Symfony. 
 
 ### 1.4.0 - 2021-10-20
 
