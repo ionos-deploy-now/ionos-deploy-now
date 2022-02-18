@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### 1.8.0 - 2022-02-18
 
 #### Added
-- Redesign of the global navigation
+- Improvements of menu layout
+- Embedded links to GitHub issues for feedback and feature requests
 
 ### 1.7.1 - 2022-01-25
 
